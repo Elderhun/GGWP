@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\СС\HelloCons\bin\Debug\net6.0\HelloCons.exe
+C:\Users\Igor\Desktop\СС\HelloCons\bin\Debug\net6.0\HelloCons.deps.json
+C:\Users\Igor\Desktop\СС\HelloCons\bin\Debug\net6.0\HelloCons.runtimeconfig.json
+C:\Users\Igor\Desktop\СС\HelloCons\bin\Debug\net6.0\HelloCons.dll
+C:\Users\Igor\Desktop\СС\HelloCons\bin\Debug\net6.0\HelloCons.pdb
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.AssemblyInfo.cs
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.dll
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\refint\HelloCons.dll
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.pdb
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\HelloCons.genruntimeconfig.cache
+C:\Users\Igor\Desktop\СС\HelloCons\obj\Debug\net6.0\ref\HelloCons.dll
